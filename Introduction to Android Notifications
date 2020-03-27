@@ -1,0 +1,8 @@
+# Android-Studio-NotificationExample
+
+This example covers the following four areas:
+    Creating Simple Notification
+    Creating Notification Channel
+    Set Notification Tap Icon
+    Add Action Button to a Notification
+    Notification with Progress bar
